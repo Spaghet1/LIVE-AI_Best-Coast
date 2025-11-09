@@ -1,0 +1,28 @@
+{
+  company: {
+    exact_acc: 0.12926577042399173,
+    avg_fuzzy: 0.5060435769133909,
+    n: 967
+  },
+  date: {
+    exact_acc: 0.4270941054808687,
+    avg_fuzzy: 0.5331820169784924,
+    n: 967
+  },
+  address: {
+    exact_acc: 0.0,
+    avg_fuzzy: 0.547220726101276,
+    n: 967
+  },
+  total: {
+    exact_acc: 0.0,
+    avg_fuzzy: 0.392295370663767,
+    n: 967
+  },
+  overall: {
+    exact_acc: 0.1390899689762151,
+    avg_fuzzy: 0.49468542266423154,
+    n_fields: 3868
+  }
+}
+

@@ -15,11 +15,7 @@ Usage examples:
   python train_and_eval.py eval --pred eda_outputs/predictions.jsonl
 
 Dependencies:
-  - pillow, opencv-python, pytesseract (optional but recommended)
-
-If pytesseract is not installed or Tesseract binary is missing, the script will
-raise a clear error. On macOS you can install Tesseract via:
-  brew install tesseract
+  - pillow, opencv-python, pytesseract
 """
 from __future__ import annotations
 
