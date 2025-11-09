@@ -5,6 +5,9 @@ Simple OCR baseline to read receipt fields (company, date, address, total) from 
 Data layout:
 - train_data/images: input receipt images
 - train_data/gdt: ground-truth JSON per image (same stem name), with keys: company, date, address, total
+- https://www.kaggle.com/datasets/dhiaznaidi/receiptdatasetssd300v2/data
+- large-receipt-image-dataset-SRD: dataset to test model on
+- https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/
 
 Quick start:
 1) Install dependencies (Python 3.9+):
