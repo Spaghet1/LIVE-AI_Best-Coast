@@ -28,3 +28,4 @@ Notes:
 Outputs:
 - eda_outputs/predictions.jsonl: one JSON per line with fields {id, company, date, address, total}
 - The eval command prints exact-match accuracy and average fuzzy similarity (0-1) per field and overall.
+
