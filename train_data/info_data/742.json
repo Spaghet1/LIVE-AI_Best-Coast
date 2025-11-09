@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/742.jpg",
+    "image_size": [
+        884,
+        2376
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/742.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 67,
+                        "ymin": 843,
+                        "xmax": 792,
+                        "ymax": 881
+                    },
+                    "Text": "RECEIPT #: CS00052997 DATE: 28/02/2016"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 117,
+                        "ymin": 1446,
+                        "xmax": 307,
+                        "ymax": 1486
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 606,
+                        "ymin": 1452,
+                        "xmax": 829,
+                        "ymax": 1489
+                    },
+                    "Text": "110.00"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 117,
+            "ymin": 1446,
+            "xmax": 829,
+            "ymax": 1489
+        }
+    ],
+    "date": {
+        "xmin": 67,
+        "ymin": 843,
+        "xmax": 792,
+        "ymax": 881
+    },
+    "roi": {
+        "xmin": 54,
+        "ymin": 272,
+        "xmax": 839,
+        "ymax": 2186
+    },
+    "roi_size": [
+        785,
+        1914
+    ]
+}

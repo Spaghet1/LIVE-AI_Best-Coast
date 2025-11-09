@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/122.jpg",
+    "image_size": [
+        745,
+        1217
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/122.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 37,
+                        "ymin": 474,
+                        "xmax": 626,
+                        "ymax": 504
+                    },
+                    "Text": "RECEIPT #: CS00668594 DATE: 06/01/2018"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 36,
+                        "ymin": 939,
+                        "xmax": 127,
+                        "ymax": 967
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 198,
+                        "ymin": 940,
+                        "xmax": 274,
+                        "ymax": 964
+                    },
+                    "Text": "65.70"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 36,
+            "ymin": 939,
+            "xmax": 274,
+            "ymax": 967
+        }
+    ],
+    "date": {
+        "xmin": 37,
+        "ymin": 474,
+        "xmax": 626,
+        "ymax": 504
+    },
+    "roi": {
+        "xmin": 23,
+        "ymin": 191,
+        "xmax": 727,
+        "ymax": 1150
+    },
+    "roi_size": [
+        704,
+        959
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/284.jpg",
+    "image_size": [
+        4961,
+        7016
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/284.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1286,
+                        "ymin": 3284,
+                        "xmax": 2760,
+                        "ymax": 3383
+                    },
+                    "Text": "ORD #32 -REG #21- 26/05/2018 02:16:13"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1293,
+                        "ymin": 4077,
+                        "xmax": 2240,
+                        "ymax": 4176
+                    },
+                    "Text": "TAKEOUT TOTAL (INCL GST)"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2634,
+                        "ymin": 4065,
+                        "xmax": 2844,
+                        "ymax": 4152
+                    },
+                    "Text": "32.25"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 1293,
+            "ymin": 4065,
+            "xmax": 2844,
+            "ymax": 4176
+        }
+    ],
+    "date": {
+        "xmin": 1286,
+        "ymin": 3284,
+        "xmax": 2760,
+        "ymax": 3383
+    },
+    "roi": {
+        "xmin": 1243,
+        "ymin": 1635,
+        "xmax": 2866,
+        "ymax": 4500
+    },
+    "roi_size": [
+        1623,
+        2865
+    ]
+}

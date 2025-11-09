@@ -1,0 +1,80 @@
+{
+    "image_path": "/content/Dataset/train/images/310.jpg",
+    "image_size": [
+        4961,
+        7016
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/310.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1416,
+                        "ymin": 2170,
+                        "xmax": 1566,
+                        "ymax": 2242
+                    },
+                    "Text": "DATE"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 1773,
+                        "ymin": 2164,
+                        "xmax": 2194,
+                        "ymax": 2238
+                    },
+                    "Text": ": 07/06/2018"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 2227,
+                        "ymin": 3852,
+                        "xmax": 2590,
+                        "ymax": 3928
+                    },
+                    "Text": "TOTAL PAID"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2788,
+                        "ymin": 3854,
+                        "xmax": 3050,
+                        "ymax": 3922
+                    },
+                    "Text": "RM20.00"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 2227,
+            "ymin": 3852,
+            "xmax": 3050,
+            "ymax": 3928
+        }
+    ],
+    "date": {
+        "xmin": 1416,
+        "ymin": 2164,
+        "xmax": 2194,
+        "ymax": 2242
+    },
+    "roi": {
+        "xmin": 1399,
+        "ymin": 1269,
+        "xmax": 3130,
+        "ymax": 5087
+    },
+    "roi_size": [
+        1731,
+        3818
+    ]
+}

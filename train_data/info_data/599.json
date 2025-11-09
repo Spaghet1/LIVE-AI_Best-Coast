@@ -1,0 +1,109 @@
+{
+    "image_path": "/content/Dataset/train/images/599.jpg",
+    "image_size": [
+        742,
+        1196
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/599.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 51,
+                        "ymin": 475,
+                        "xmax": 110,
+                        "ymax": 502
+                    },
+                    "Text": "DATE"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 204,
+                        "ymin": 478,
+                        "xmax": 515,
+                        "ymax": 505
+                    },
+                    "Text": ": 04/05/2017 7:19:43 AM"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 351,
+                        "ymin": 725,
+                        "xmax": 407,
+                        "ymax": 748
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 605,
+                        "ymin": 722,
+                        "xmax": 662,
+                        "ymax": 744
+                    },
+                    "Text": "12.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 48,
+                        "ymin": 798,
+                        "xmax": 419,
+                        "ymax": 826
+                    },
+                    "Text": "TOTAL SALES INCLUSIVE GST @6.00%"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 606,
+                        "ymin": 800,
+                        "xmax": 662,
+                        "ymax": 822
+                    },
+                    "Text": "12.00"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 351,
+            "ymin": 722,
+            "xmax": 662,
+            "ymax": 748
+        },
+        {
+            "xmin": 48,
+            "ymin": 798,
+            "xmax": 662,
+            "ymax": 826
+        }
+    ],
+    "date": {
+        "xmin": 51,
+        "ymin": 475,
+        "xmax": 515,
+        "ymax": 505
+    },
+    "roi": {
+        "xmin": 38,
+        "ymin": 175,
+        "xmax": 734,
+        "ymax": 1152
+    },
+    "roi_size": [
+        696,
+        977
+    ]
+}

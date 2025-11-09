@@ -1,0 +1,41 @@
+{
+    "image_path": "/content/Dataset/train/images/306.jpg",
+    "image_size": [
+        4961,
+        7016
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/306.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1819,
+                        "ymin": 1594,
+                        "xmax": 2310,
+                        "ymax": 1658
+                    },
+                    "Text": "02 JUN 2018 18:23"
+                }
+            ],
+            "label": "date"
+        }
+    ],
+    "total": [],
+    "date": {
+        "xmin": 1819,
+        "ymin": 1594,
+        "xmax": 2310,
+        "ymax": 1658
+    },
+    "roi": {
+        "xmin": 1324,
+        "ymin": 1489,
+        "xmax": 2818,
+        "ymax": 4474
+    },
+    "roi_size": [
+        1494,
+        2985
+    ]
+}

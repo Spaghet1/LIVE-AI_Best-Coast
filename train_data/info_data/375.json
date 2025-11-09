@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/375.jpg",
+    "image_size": [
+        1080,
+        1527
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/375.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 444,
+                        "ymin": 374,
+                        "xmax": 550,
+                        "ymax": 388
+                    },
+                    "Text": "05 MAR 2018 18:24"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 558,
+                        "ymin": 645,
+                        "xmax": 652,
+                        "ymax": 659
+                    },
+                    "Text": "NETT TOTAL: $8.20"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 617,
+                        "ymin": 690,
+                        "xmax": 651,
+                        "ymax": 705
+                    },
+                    "Text": "$8.20"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 558,
+            "ymin": 645,
+            "xmax": 652,
+            "ymax": 705
+        }
+    ],
+    "date": {
+        "xmin": 444,
+        "ymin": 374,
+        "xmax": 550,
+        "ymax": 388
+    },
+    "roi": {
+        "xmin": 322,
+        "ymin": 336,
+        "xmax": 667,
+        "ymax": 925
+    },
+    "roi_size": [
+        345,
+        589
+    ]
+}

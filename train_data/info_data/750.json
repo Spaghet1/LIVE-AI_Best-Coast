@@ -1,0 +1,80 @@
+{
+    "image_path": "/content/Dataset/train/images/750.jpg",
+    "image_size": [
+        932,
+        2044
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/750.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 113,
+                        "ymin": 719,
+                        "xmax": 194,
+                        "ymax": 751
+                    },
+                    "Text": "DATE:"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 252,
+                        "ymin": 717,
+                        "xmax": 427,
+                        "ymax": 755
+                    },
+                    "Text": "20/10/2016"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 219,
+                        "ymin": 1593,
+                        "xmax": 454,
+                        "ymax": 1634
+                    },
+                    "Text": "TOTAL SALES:"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 668,
+                        "ymin": 1592,
+                        "xmax": 839,
+                        "ymax": 1637
+                    },
+                    "Text": "RM9.75"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 219,
+            "ymin": 1592,
+            "xmax": 839,
+            "ymax": 1637
+        }
+    ],
+    "date": {
+        "xmin": 113,
+        "ymin": 717,
+        "xmax": 427,
+        "ymax": 755
+    },
+    "roi": {
+        "xmin": 100,
+        "ymin": 213,
+        "xmax": 910,
+        "ymax": 2005
+    },
+    "roi_size": [
+        810,
+        1792
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "image_path": "/content/Dataset/train/images/517.jpg",
+    "image_size": [
+        932,
+        2679
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/517.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 553,
+                        "ymin": 732,
+                        "xmax": 641,
+                        "ymax": 760
+                    },
+                    "Text": "DATE"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 661,
+                        "ymin": 732,
+                        "xmax": 837,
+                        "ymax": 760
+                    },
+                    "Text": ":26/03/18"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 101,
+                        "ymin": 1287,
+                        "xmax": 283,
+                        "ymax": 1316
+                    },
+                    "Text": "SUB-TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 680,
+                        "ymin": 1285,
+                        "xmax": 779,
+                        "ymax": 1314
+                    },
+                    "Text": "60.60"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 101,
+            "ymin": 1285,
+            "xmax": 779,
+            "ymax": 1316
+        }
+    ],
+    "date": {
+        "xmin": 553,
+        "ymin": 732,
+        "xmax": 837,
+        "ymax": 760
+    },
+    "roi": {
+        "xmin": 91,
+        "ymin": 117,
+        "xmax": 878,
+        "ymax": 2629
+    },
+    "roi_size": [
+        787,
+        2512
+    ]
+}

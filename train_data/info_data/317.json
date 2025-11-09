@@ -1,0 +1,158 @@
+{
+    "image_path": "/content/Dataset/train/images/317.jpg",
+    "image_size": [
+        4961,
+        7016
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/317.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 2144,
+                        "ymin": 2368,
+                        "xmax": 2996,
+                        "ymax": 2449
+                    },
+                    "Text": "03 JUN 18 03:07:32 PM"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1865,
+                        "ymin": 3416,
+                        "xmax": 2096,
+                        "ymax": 3497
+                    },
+                    "Text": "TOTAL:"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2972,
+                        "ymin": 3416,
+                        "xmax": 3176,
+                        "ymax": 3491
+                    },
+                    "Text": "28.02"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1866,
+                        "ymin": 3618,
+                        "xmax": 2088,
+                        "ymax": 3697
+                    },
+                    "Text": "TOTAL:"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2972,
+                        "ymin": 3612,
+                        "xmax": 3168,
+                        "ymax": 3687
+                    },
+                    "Text": "28.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1850,
+                        "ymin": 4104,
+                        "xmax": 2089,
+                        "ymax": 4183
+                    },
+                    "Text": "TOTAL:"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2966,
+                        "ymin": 4101,
+                        "xmax": 3170,
+                        "ymax": 4176
+                    },
+                    "Text": "28.02"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1854,
+                        "ymin": 4301,
+                        "xmax": 2085,
+                        "ymax": 4376
+                    },
+                    "Text": "TOTAL:"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2964,
+                        "ymin": 4304,
+                        "xmax": 3162,
+                        "ymax": 4374
+                    },
+                    "Text": "28.00"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 1865,
+            "ymin": 3416,
+            "xmax": 3176,
+            "ymax": 3497
+        },
+        {
+            "xmin": 1866,
+            "ymin": 3612,
+            "xmax": 3168,
+            "ymax": 3697
+        },
+        {
+            "xmin": 1850,
+            "ymin": 4101,
+            "xmax": 3170,
+            "ymax": 4183
+        },
+        {
+            "xmin": 1854,
+            "ymin": 4301,
+            "xmax": 3162,
+            "ymax": 4376
+        }
+    ],
+    "date": {
+        "xmin": 2144,
+        "ymin": 2368,
+        "xmax": 2996,
+        "ymax": 2449
+    },
+    "roi": {
+        "xmin": 1739,
+        "ymin": 772,
+        "xmax": 3385,
+        "ymax": 5868
+    },
+    "roi_size": [
+        1646,
+        5096
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/956.jpg",
+    "image_size": [
+        924,
+        1771
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/956.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 42,
+                        "ymin": 1399,
+                        "xmax": 202,
+                        "ymax": 1438
+                    },
+                    "Text": "15-07-18"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 43,
+                        "ymin": 1063,
+                        "xmax": 307,
+                        "ymax": 1102
+                    },
+                    "Text": "TOTAL ROUNDED"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 717,
+                        "ymin": 1073,
+                        "xmax": 861,
+                        "ymax": 1109
+                    },
+                    "Text": "RM 7.15"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 43,
+            "ymin": 1063,
+            "xmax": 861,
+            "ymax": 1109
+        }
+    ],
+    "date": {
+        "xmin": 42,
+        "ymin": 1399,
+        "xmax": 202,
+        "ymax": 1438
+    },
+    "roi": {
+        "xmin": 26,
+        "ymin": 322,
+        "xmax": 872,
+        "ymax": 1677
+    },
+    "roi_size": [
+        846,
+        1355
+    ]
+}

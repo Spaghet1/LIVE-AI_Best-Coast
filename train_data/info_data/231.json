@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/231.jpg",
+    "image_size": [
+        932,
+        1512
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/231.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 78,
+                        "ymin": 522,
+                        "xmax": 880,
+                        "ymax": 565
+                    },
+                    "Text": "REG KER YUN 02-12-2016 12:33 PM 000093"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 197,
+                        "ymin": 873,
+                        "xmax": 361,
+                        "ymax": 916
+                    },
+                    "Text": "SUBTOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 518,
+                        "ymin": 873,
+                        "xmax": 796,
+                        "ymax": 914
+                    },
+                    "Text": "RM15.80"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 197,
+            "ymin": 873,
+            "xmax": 796,
+            "ymax": 916
+        }
+    ],
+    "date": {
+        "xmin": 78,
+        "ymin": 522,
+        "xmax": 880,
+        "ymax": 565
+    },
+    "roi": {
+        "xmin": 68,
+        "ymin": 197,
+        "xmax": 890,
+        "ymax": 1386
+    },
+    "roi_size": [
+        822,
+        1189
+    ]
+}

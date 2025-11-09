@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/587.jpg",
+    "image_size": [
+        729,
+        1936
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/587.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 24,
+                        "ymin": 1006,
+                        "xmax": 601,
+                        "ymax": 1038
+                    },
+                    "Text": "ORD #64 -REG #2- 25/12/2016 13:51:47"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 25,
+                        "ymin": 1480,
+                        "xmax": 233,
+                        "ymax": 1513
+                    },
+                    "Text": "TOTAL ROUNDED"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 569,
+                        "ymin": 1480,
+                        "xmax": 647,
+                        "ymax": 1510
+                    },
+                    "Text": "29.30"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 25,
+            "ymin": 1480,
+            "xmax": 647,
+            "ymax": 1513
+        }
+    ],
+    "date": {
+        "xmin": 24,
+        "ymin": 1006,
+        "xmax": 601,
+        "ymax": 1038
+    },
+    "roi": {
+        "xmin": 10,
+        "ymin": 145,
+        "xmax": 671,
+        "ymax": 1807
+    },
+    "roi_size": [
+        661,
+        1662
+    ]
+}

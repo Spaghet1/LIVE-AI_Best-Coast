@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/151.jpg",
+    "image_size": [
+        708,
+        1173
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/151.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 54,
+                        "ymin": 449,
+                        "xmax": 629,
+                        "ymax": 477
+                    },
+                    "Text": "RECEIPT #: CS00027489 DATE: 11/02/2017"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 57,
+                        "ymin": 939,
+                        "xmax": 148,
+                        "ymax": 967
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 226,
+                        "ymin": 941,
+                        "xmax": 295,
+                        "ymax": 966
+                    },
+                    "Text": "19.10"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 57,
+            "ymin": 939,
+            "xmax": 295,
+            "ymax": 967
+        }
+    ],
+    "date": {
+        "xmin": 54,
+        "ymin": 449,
+        "xmax": 629,
+        "ymax": 477
+    },
+    "roi": {
+        "xmin": 41,
+        "ymin": 164,
+        "xmax": 639,
+        "ymax": 1151
+    },
+    "roi_size": [
+        598,
+        987
+    ]
+}

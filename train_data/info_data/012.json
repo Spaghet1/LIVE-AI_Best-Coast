@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/012.jpg",
+    "image_size": [
+        835,
+        2333
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/012.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 84,
+                        "ymin": 607,
+                        "xmax": 455,
+                        "ymax": 649
+                    },
+                    "Text": "BILL DATE : 20/11/2017"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 81,
+                        "ymin": 1567,
+                        "xmax": 147,
+                        "ymax": 1598
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 506,
+                        "ymin": 1565,
+                        "xmax": 628,
+                        "ymax": 1594
+                    },
+                    "Text": "278.80"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 81,
+            "ymin": 1565,
+            "xmax": 628,
+            "ymax": 1598
+        }
+    ],
+    "date": {
+        "xmin": 84,
+        "ymin": 607,
+        "xmax": 455,
+        "ymax": 649
+    },
+    "roi": {
+        "xmin": 65,
+        "ymin": 206,
+        "xmax": 763,
+        "ymax": 2222
+    },
+    "roi_size": [
+        698,
+        2016
+    ]
+}

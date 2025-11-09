@@ -1,0 +1,109 @@
+{
+    "image_path": "/content/Dataset/train/images/157.jpg",
+    "image_size": [
+        744,
+        1416
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/157.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 109,
+                        "ymin": 1087,
+                        "xmax": 137,
+                        "ymax": 1114
+                    },
+                    "Text": "DATE"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 82,
+                        "ymin": 1124,
+                        "xmax": 479,
+                        "ymax": 1156
+                    },
+                    "Text": "11/11/16 09:58 64051 01 0004"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 78,
+                        "ymin": 804,
+                        "xmax": 150,
+                        "ymax": 840
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 559,
+                        "ymin": 804,
+                        "xmax": 619,
+                        "ymax": 834
+                    },
+                    "Text": "6.40"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 77,
+                        "ymin": 965,
+                        "xmax": 392,
+                        "ymax": 996
+                    },
+                    "Text": "TOTAL EXCLUSIVE OF TAX"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 563,
+                        "ymin": 965,
+                        "xmax": 619,
+                        "ymax": 994
+                    },
+                    "Text": "6.04"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 78,
+            "ymin": 804,
+            "xmax": 619,
+            "ymax": 840
+        },
+        {
+            "xmin": 77,
+            "ymin": 965,
+            "xmax": 619,
+            "ymax": 996
+        }
+    ],
+    "date": {
+        "xmin": 82,
+        "ymin": 1124,
+        "xmax": 479,
+        "ymax": 1156
+    },
+    "roi": {
+        "xmin": 67,
+        "ymin": 254,
+        "xmax": 658,
+        "ymax": 1272
+    },
+    "roi_size": [
+        591,
+        1018
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/779.jpg",
+    "image_size": [
+        4961,
+        7016
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/779.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1512,
+                        "ymin": 2713,
+                        "xmax": 2787,
+                        "ymax": 2816
+                    },
+                    "Text": "ORD #69 -REG #1- 25/05/2018 18:12:50"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1522,
+                        "ymin": 3256,
+                        "xmax": 2329,
+                        "ymax": 3346
+                    },
+                    "Text": "EAT-IN TOTAL (INCL GST)"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2723,
+                        "ymin": 3243,
+                        "xmax": 2902,
+                        "ymax": 3311
+                    },
+                    "Text": "11.10"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 1522,
+            "ymin": 3243,
+            "xmax": 2902,
+            "ymax": 3346
+        }
+    ],
+    "date": {
+        "xmin": 1512,
+        "ymin": 2713,
+        "xmax": 2787,
+        "ymax": 2816
+    },
+    "roi": {
+        "xmin": 1488,
+        "ymin": 1455,
+        "xmax": 2919,
+        "ymax": 4156
+    },
+    "roi_size": [
+        1431,
+        2701
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/509.jpg",
+    "image_size": [
+        936,
+        2017
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/509.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 49,
+                        "ymin": 514,
+                        "xmax": 567,
+                        "ymax": 561
+                    },
+                    "Text": "[SALES] 2018-01-05 22:55:25"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 44,
+                        "ymin": 962,
+                        "xmax": 149,
+                        "ymax": 1038
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 741,
+                        "ymin": 965,
+                        "xmax": 844,
+                        "ymax": 1038
+                    },
+                    "Text": "71.00"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 44,
+            "ymin": 962,
+            "xmax": 844,
+            "ymax": 1038
+        }
+    ],
+    "date": {
+        "xmin": 49,
+        "ymin": 514,
+        "xmax": 567,
+        "ymax": 561
+    },
+    "roi": {
+        "xmin": 32,
+        "ymin": 169,
+        "xmax": 896,
+        "ymax": 1827
+    },
+    "roi_size": [
+        864,
+        1658
+    ]
+}

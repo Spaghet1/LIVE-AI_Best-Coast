@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/915.jpg",
+    "image_size": [
+        936,
+        2004
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/915.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 42,
+                        "ymin": 1643,
+                        "xmax": 546,
+                        "ymax": 1685
+                    },
+                    "Text": "30-06-18 13:27 SH01 B003"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 48,
+                        "ymin": 1305,
+                        "xmax": 318,
+                        "ymax": 1345
+                    },
+                    "Text": "TOTAL ROUNDED"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 701,
+                        "ymin": 1311,
+                        "xmax": 872,
+                        "ymax": 1351
+                    },
+                    "Text": "RM 27.25"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 48,
+            "ymin": 1305,
+            "xmax": 872,
+            "ymax": 1351
+        }
+    ],
+    "date": {
+        "xmin": 42,
+        "ymin": 1643,
+        "xmax": 546,
+        "ymax": 1685
+    },
+    "roi": {
+        "xmin": 28,
+        "ymin": 312,
+        "xmax": 884,
+        "ymax": 1915
+    },
+    "roi_size": [
+        856,
+        1603
+    ]
+}

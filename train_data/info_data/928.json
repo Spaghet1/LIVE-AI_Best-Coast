@@ -1,0 +1,138 @@
+{
+    "image_path": "/content/Dataset/train/images/928.jpg",
+    "image_size": [
+        748,
+        1271
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/928.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 61,
+                        "ymin": 463,
+                        "xmax": 119,
+                        "ymax": 493
+                    },
+                    "Text": "DATE"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 238,
+                        "ymin": 464,
+                        "xmax": 553,
+                        "ymax": 489
+                    },
+                    "Text": ": 11/06/2018 3:38:36 PM"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 252,
+                        "ymin": 734,
+                        "xmax": 456,
+                        "ymax": 770
+                    },
+                    "Text": "NET TOTAL(MYR :"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 390,
+                        "ymin": 683,
+                        "xmax": 461,
+                        "ymax": 712
+                    },
+                    "Text": "48.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 252,
+                        "ymin": 734,
+                        "xmax": 456,
+                        "ymax": 770
+                    },
+                    "Text": "NET TOTAL(MYR :"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 559,
+                        "ymin": 733,
+                        "xmax": 633,
+                        "ymax": 766
+                    },
+                    "Text": "48.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 125,
+                        "ymin": 833,
+                        "xmax": 452,
+                        "ymax": 869
+                    },
+                    "Text": "NET TOTAL ROUNDED (MYR) :"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 552,
+                        "ymin": 837,
+                        "xmax": 633,
+                        "ymax": 861
+                    },
+                    "Text": "48.00"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 252,
+            "ymin": 683,
+            "xmax": 461,
+            "ymax": 770
+        },
+        {
+            "xmin": 252,
+            "ymin": 733,
+            "xmax": 633,
+            "ymax": 770
+        },
+        {
+            "xmin": 125,
+            "ymin": 833,
+            "xmax": 633,
+            "ymax": 869
+        }
+    ],
+    "date": {
+        "xmin": 61,
+        "ymin": 463,
+        "xmax": 553,
+        "ymax": 493
+    },
+    "roi": {
+        "xmin": 44,
+        "ymin": 136,
+        "xmax": 701,
+        "ymax": 1232
+    },
+    "roi_size": [
+        657,
+        1096
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_path": "/content/Dataset/train/images/832.jpg",
+    "image_size": [
+        623,
+        1471
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/832.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 55,
+                        "ymin": 1301,
+                        "xmax": 592,
+                        "ymax": 1325
+                    },
+                    "Text": "PURCHASE DATE FOR I.T PRODUCT WARRANTY"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 316,
+                        "ymin": 939,
+                        "xmax": 525,
+                        "ymax": 967
+                    },
+                    "Text": "DATE: 06/11/2017"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 31,
+                        "ymin": 556,
+                        "xmax": 347,
+                        "ymax": 578
+                    },
+                    "Text": "TOTAL SALES INCLUSIVE GST @6%"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 482,
+                        "ymin": 558,
+                        "xmax": 529,
+                        "ymax": 578
+                    },
+                    "Text": "8.70"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 241,
+                        "ymin": 626,
+                        "xmax": 302,
+                        "ymax": 651
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 485,
+                        "ymin": 630,
+                        "xmax": 533,
+                        "ymax": 651
+                    },
+                    "Text": "8.70"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 244,
+                        "ymin": 698,
+                        "xmax": 351,
+                        "ymax": 722
+                    },
+                    "Text": "FINAL TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 484,
+                        "ymin": 703,
+                        "xmax": 532,
+                        "ymax": 723
+                    },
+                    "Text": "8.70"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 31,
+            "ymin": 556,
+            "xmax": 529,
+            "ymax": 578
+        },
+        {
+            "xmin": 241,
+            "ymin": 626,
+            "xmax": 533,
+            "ymax": 651
+        },
+        {
+            "xmin": 244,
+            "ymin": 698,
+            "xmax": 532,
+            "ymax": 723
+        }
+    ],
+    "date": {
+        "xmin": 316,
+        "ymin": 939,
+        "xmax": 525,
+        "ymax": 967
+    },
+    "roi": {
+        "xmin": 21,
+        "ymin": 111,
+        "xmax": 610,
+        "ymax": 1433
+    },
+    "roi_size": [
+        589,
+        1322
+    ]
+}

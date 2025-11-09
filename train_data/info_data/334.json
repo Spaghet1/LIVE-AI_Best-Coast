@@ -1,0 +1,129 @@
+{
+    "image_path": "/content/Dataset/train/images/334.jpg",
+    "image_size": [
+        787,
+        1509
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/334.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 24,
+                        "ymin": 820,
+                        "xmax": 583,
+                        "ymax": 853
+                    },
+                    "Text": "ORD #84 -REG #19- 30/05/2018 16:07:06"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 537,
+                        "ymin": 860,
+                        "xmax": 613,
+                        "ymax": 889
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 540,
+                        "ymin": 898,
+                        "xmax": 614,
+                        "ymax": 925
+                    },
+                    "Text": "19.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 25,
+                        "ymin": 1042,
+                        "xmax": 384,
+                        "ymax": 1074
+                    },
+                    "Text": "TAKEOUT TOTAL (INCL GST)"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 540,
+                        "ymin": 1046,
+                        "xmax": 616,
+                        "ymax": 1075
+                    },
+                    "Text": "19.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 22,
+                        "ymin": 1081,
+                        "xmax": 223,
+                        "ymax": 1113
+                    },
+                    "Text": "TOTAL ROUNDED"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 539,
+                        "ymin": 1083,
+                        "xmax": 614,
+                        "ymax": 1112
+                    },
+                    "Text": "19.00"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 537,
+            "ymin": 860,
+            "xmax": 614,
+            "ymax": 925
+        },
+        {
+            "xmin": 25,
+            "ymin": 1042,
+            "xmax": 616,
+            "ymax": 1075
+        },
+        {
+            "xmin": 22,
+            "ymin": 1081,
+            "xmax": 614,
+            "ymax": 1113
+        }
+    ],
+    "date": {
+        "xmin": 24,
+        "ymin": 820,
+        "xmax": 583,
+        "ymax": 853
+    },
+    "roi": {
+        "xmin": 12,
+        "ymin": 173,
+        "xmax": 629,
+        "ymax": 1448
+    },
+    "roi_size": [
+        617,
+        1275
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "image_path": "/content/Dataset/train/images/756.jpg",
+    "image_size": [
+        932,
+        1812
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/756.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 46,
+                        "ymin": 533,
+                        "xmax": 148,
+                        "ymax": 577
+                    },
+                    "Text": "DATE:"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 349,
+                        "ymin": 530,
+                        "xmax": 810,
+                        "ymax": 572
+                    },
+                    "Text": "OCT 3, 2016 12:16:25 PM"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 44,
+                        "ymin": 1025,
+                        "xmax": 571,
+                        "ymax": 1102
+                    },
+                    "Text": "TOTAL SALES INCL, GST @ 6%"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 742,
+                        "ymin": 1028,
+                        "xmax": 896,
+                        "ymax": 1102
+                    },
+                    "Text": "RM33.90"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 44,
+            "ymin": 1025,
+            "xmax": 896,
+            "ymax": 1102
+        }
+    ],
+    "date": {
+        "xmin": 46,
+        "ymin": 530,
+        "xmax": 810,
+        "ymax": 577
+    },
+    "roi": {
+        "xmin": 34,
+        "ymin": 163,
+        "xmax": 906,
+        "ymax": 1752
+    },
+    "roi_size": [
+        872,
+        1589
+    ]
+}

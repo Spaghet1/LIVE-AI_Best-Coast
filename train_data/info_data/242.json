@@ -1,0 +1,41 @@
+{
+    "image_path": "/content/Dataset/train/images/242.jpg",
+    "image_size": [
+        884,
+        2886
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/242.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 55,
+                        "ymin": 2439,
+                        "xmax": 510,
+                        "ymax": 2481
+                    },
+                    "Text": "10-01-16 14:01 SH01 ZJ19"
+                }
+            ],
+            "label": "date"
+        }
+    ],
+    "total": [],
+    "date": {
+        "xmin": 55,
+        "ymin": 2439,
+        "xmax": 510,
+        "ymax": 2481
+    },
+    "roi": {
+        "xmin": 32,
+        "ymin": 300,
+        "xmax": 832,
+        "ymax": 2754
+    },
+    "roi_size": [
+        800,
+        2454
+    ]
+}

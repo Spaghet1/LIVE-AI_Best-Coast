@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/249.jpg",
+    "image_size": [
+        888,
+        2168
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/249.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 66,
+                        "ymin": 1720,
+                        "xmax": 524,
+                        "ymax": 1764
+                    },
+                    "Text": "06-05-16 17:11 SH01 ZJ08"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 68,
+                        "ymin": 1422,
+                        "xmax": 413,
+                        "ymax": 1466
+                    },
+                    "Text": "TOTAL INCL. GST@6%"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 667,
+                        "ymin": 1431,
+                        "xmax": 824,
+                        "ymax": 1465
+                    },
+                    "Text": "RM 26.70"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 68,
+            "ymin": 1422,
+            "xmax": 824,
+            "ymax": 1466
+        }
+    ],
+    "date": {
+        "xmin": 66,
+        "ymin": 1720,
+        "xmax": 524,
+        "ymax": 1764
+    },
+    "roi": {
+        "xmin": 49,
+        "ymin": 350,
+        "xmax": 845,
+        "ymax": 2032
+    },
+    "roi_size": [
+        796,
+        1682
+    ]
+}

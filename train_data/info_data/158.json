@@ -1,0 +1,80 @@
+{
+    "image_path": "/content/Dataset/train/images/158.jpg",
+    "image_size": [
+        698,
+        1708
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/158.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 40,
+                        "ymin": 554,
+                        "xmax": 98,
+                        "ymax": 580
+                    },
+                    "Text": "DATE"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 237,
+                        "ymin": 552,
+                        "xmax": 550,
+                        "ymax": 582
+                    },
+                    "Text": ": 06 FEB 2017 12:57PM"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 217,
+                        "ymin": 1071,
+                        "xmax": 492,
+                        "ymax": 1097
+                    },
+                    "Text": "TOTAL INCL. GST:RM"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 568,
+                        "ymin": 1071,
+                        "xmax": 643,
+                        "ymax": 1095
+                    },
+                    "Text": "27.00"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 217,
+            "ymin": 1071,
+            "xmax": 643,
+            "ymax": 1097
+        }
+    ],
+    "date": {
+        "xmin": 40,
+        "ymin": 552,
+        "xmax": 550,
+        "ymax": 582
+    },
+    "roi": {
+        "xmin": 28,
+        "ymin": -20,
+        "xmax": 654,
+        "ymax": 1715
+    },
+    "roi_size": [
+        626,
+        1735
+    ]
+}

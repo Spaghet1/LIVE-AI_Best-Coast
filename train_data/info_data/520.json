@@ -1,0 +1,100 @@
+{
+    "image_path": "/content/Dataset/train/images/520.jpg",
+    "image_size": [
+        932,
+        2132
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/520.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 603,
+                        "ymin": 929,
+                        "xmax": 875,
+                        "ymax": 962
+                    },
+                    "Text": "DATE: 28/02/2018"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 83,
+                        "ymin": 1270,
+                        "xmax": 224,
+                        "ymax": 1309
+                    },
+                    "Text": "TOTAL QTY:"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 687,
+                        "ymin": 1274,
+                        "xmax": 789,
+                        "ymax": 1305
+                    },
+                    "Text": "101.76"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 100,
+                        "ymin": 1581,
+                        "xmax": 615,
+                        "ymax": 1621
+                    },
+                    "Text": "TOTAL SALES (INCLUSIVE OF GST) :"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 686,
+                        "ymin": 1587,
+                        "xmax": 790,
+                        "ymax": 1616
+                    },
+                    "Text": "101.76"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 83,
+            "ymin": 1270,
+            "xmax": 789,
+            "ymax": 1309
+        },
+        {
+            "xmin": 100,
+            "ymin": 1581,
+            "xmax": 790,
+            "ymax": 1621
+        }
+    ],
+    "date": {
+        "xmin": 603,
+        "ymin": 929,
+        "xmax": 875,
+        "ymax": 962
+    },
+    "roi": {
+        "xmin": 32,
+        "ymin": 45,
+        "xmax": 893,
+        "ymax": 2076
+    },
+    "roi_size": [
+        861,
+        2031
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/930.jpg",
+    "image_size": [
+        621,
+        1331
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/930.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 17,
+                        "ymin": 1092,
+                        "xmax": 348,
+                        "ymax": 1117
+                    },
+                    "Text": "17-06-18 12:56 SH01 ZJ42"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 15,
+                        "ymin": 869,
+                        "xmax": 198,
+                        "ymax": 893
+                    },
+                    "Text": "TOTAL ROUNDED"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 470,
+                        "ymin": 868,
+                        "xmax": 571,
+                        "ymax": 892
+                    },
+                    "Text": "RM 8.10"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 15,
+            "ymin": 868,
+            "xmax": 571,
+            "ymax": 893
+        }
+    ],
+    "date": {
+        "xmin": 17,
+        "ymin": 1092,
+        "xmax": 348,
+        "ymax": 1117
+    },
+    "roi": {
+        "xmin": 1,
+        "ymin": 224,
+        "xmax": 581,
+        "ymax": 1274
+    },
+    "roi_size": [
+        580,
+        1050
+    ]
+}

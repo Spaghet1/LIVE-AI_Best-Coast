@@ -1,0 +1,100 @@
+{
+    "image_path": "/content/Dataset/train/images/318.jpg",
+    "image_size": [
+        4961,
+        7016
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/318.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 2779,
+                        "ymin": 2021,
+                        "xmax": 3294,
+                        "ymax": 2090
+                    },
+                    "Text": "DATE: 09/06/18"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1991,
+                        "ymin": 4067,
+                        "xmax": 2883,
+                        "ymax": 4149
+                    },
+                    "Text": "TOTAL RM INCLUDING GST 0%"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 3038,
+                        "ymin": 4073,
+                        "xmax": 3225,
+                        "ymax": 4149
+                    },
+                    "Text": "46.20"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1987,
+                        "ymin": 4220,
+                        "xmax": 2452,
+                        "ymax": 4309
+                    },
+                    "Text": "TOTAL ROUNDED"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 3041,
+                        "ymin": 4225,
+                        "xmax": 3222,
+                        "ymax": 4316
+                    },
+                    "Text": "46.20"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 1991,
+            "ymin": 4067,
+            "xmax": 3225,
+            "ymax": 4149
+        },
+        {
+            "xmin": 1987,
+            "ymin": 4220,
+            "xmax": 3222,
+            "ymax": 4316
+        }
+    ],
+    "date": {
+        "xmin": 2779,
+        "ymin": 2021,
+        "xmax": 3294,
+        "ymax": 2090
+    },
+    "roi": {
+        "xmin": 1967,
+        "ymin": 965,
+        "xmax": 3405,
+        "ymax": 5368
+    },
+    "roi_size": [
+        1438,
+        4403
+    ]
+}

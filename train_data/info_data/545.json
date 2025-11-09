@@ -1,0 +1,100 @@
+{
+    "image_path": "/content/Dataset/train/images/545.jpg",
+    "image_size": [
+        703,
+        1784
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/545.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 100,
+                        "ymin": 548,
+                        "xmax": 598,
+                        "ymax": 585
+                    },
+                    "Text": "20/03/2018 7:07PM RCPT NO.18252"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 103,
+                        "ymin": 901,
+                        "xmax": 434,
+                        "ymax": 935
+                    },
+                    "Text": "SUB TOTAL (INCL. GST)"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 499,
+                        "ymin": 900,
+                        "xmax": 582,
+                        "ymax": 932
+                    },
+                    "Text": "35.40"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 103,
+                        "ymin": 975,
+                        "xmax": 182,
+                        "ymax": 1031
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 452,
+                        "ymin": 973,
+                        "xmax": 581,
+                        "ymax": 1029
+                    },
+                    "Text": "RM35.40"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 103,
+            "ymin": 900,
+            "xmax": 582,
+            "ymax": 935
+        },
+        {
+            "xmin": 103,
+            "ymin": 973,
+            "xmax": 581,
+            "ymax": 1031
+        }
+    ],
+    "date": {
+        "xmin": 100,
+        "ymin": 548,
+        "xmax": 598,
+        "ymax": 585
+    },
+    "roi": {
+        "xmin": 90,
+        "ymin": 133,
+        "xmax": 624,
+        "ymax": 1705
+    },
+    "roi_size": [
+        534,
+        1572
+    ]
+}

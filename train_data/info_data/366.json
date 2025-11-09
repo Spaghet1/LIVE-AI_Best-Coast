@@ -1,0 +1,158 @@
+{
+    "image_path": "/content/Dataset/train/images/366.jpg",
+    "image_size": [
+        993,
+        2481
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/366.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 600,
+                        "ymin": 687,
+                        "xmax": 913,
+                        "ymax": 721
+                    },
+                    "Text": "DATE : 18/01/2018"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 70,
+                        "ymin": 1189,
+                        "xmax": 264,
+                        "ymax": 1231
+                    },
+                    "Text": "TOTAL QTY. :"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 809,
+                        "ymin": 1190,
+                        "xmax": 887,
+                        "ymax": 1223
+                    },
+                    "Text": "4.60"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 74,
+                        "ymin": 1287,
+                        "xmax": 396,
+                        "ymax": 1326
+                    },
+                    "Text": "SUB-TOTAL (EX)"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 812,
+                        "ymin": 1287,
+                        "xmax": 887,
+                        "ymax": 1319
+                    },
+                    "Text": "4.60"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 73,
+                        "ymin": 1462,
+                        "xmax": 252,
+                        "ymax": 1506
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 780,
+                        "ymin": 1467,
+                        "xmax": 883,
+                        "ymax": 1511
+                    },
+                    "Text": "4.90"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 63,
+                        "ymin": 2114,
+                        "xmax": 218,
+                        "ymax": 2151
+                    },
+                    "Text": "TOTAL :"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 585,
+                        "ymin": 2116,
+                        "xmax": 663,
+                        "ymax": 2150
+                    },
+                    "Text": "4.60"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 70,
+            "ymin": 1189,
+            "xmax": 887,
+            "ymax": 1231
+        },
+        {
+            "xmin": 74,
+            "ymin": 1287,
+            "xmax": 887,
+            "ymax": 1326
+        },
+        {
+            "xmin": 73,
+            "ymin": 1462,
+            "xmax": 883,
+            "ymax": 1511
+        },
+        {
+            "xmin": 63,
+            "ymin": 2114,
+            "xmax": 663,
+            "ymax": 2151
+        }
+    ],
+    "date": {
+        "xmin": 600,
+        "ymin": 687,
+        "xmax": 913,
+        "ymax": 721
+    },
+    "roi": {
+        "xmin": 53,
+        "ymin": 175,
+        "xmax": 928,
+        "ymax": 2455
+    },
+    "roi_size": [
+        875,
+        2280
+    ]
+}

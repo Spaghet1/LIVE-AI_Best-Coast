@@ -1,0 +1,41 @@
+{
+    "image_path": "/content/Dataset/train/images/128.jpg",
+    "image_size": [
+        842,
+        1280
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/128.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 140,
+                        "ymin": 379,
+                        "xmax": 592,
+                        "ymax": 423
+                    },
+                    "Text": "RECEIPT DATE : 28-FEB-2018 16:37:04"
+                }
+            ],
+            "label": "date"
+        }
+    ],
+    "total": [],
+    "date": {
+        "xmin": 140,
+        "ymin": 379,
+        "xmax": 592,
+        "ymax": 423
+    },
+    "roi": {
+        "xmin": 114,
+        "ymin": 24,
+        "xmax": 721,
+        "ymax": 1236
+    },
+    "roi_size": [
+        607,
+        1212
+    ]
+}

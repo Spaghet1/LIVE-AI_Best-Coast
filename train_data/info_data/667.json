@@ -1,0 +1,129 @@
+{
+    "image_path": "/content/Dataset/train/images/667.jpg",
+    "image_size": [
+        592,
+        982
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/667.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 48,
+                        "ymin": 429,
+                        "xmax": 177,
+                        "ymax": 451
+                    },
+                    "Text": "13/10/2017"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 46,
+                        "ymin": 603,
+                        "xmax": 253,
+                        "ymax": 628
+                    },
+                    "Text": "SUB TOTAL AMOUNT"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 424,
+                        "ymin": 604,
+                        "xmax": 503,
+                        "ymax": 628
+                    },
+                    "Text": "234.40"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 49,
+                        "ymin": 629,
+                        "xmax": 204,
+                        "ymax": 653
+                    },
+                    "Text": "TOTAL AMOUNT"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 422,
+                        "ymin": 629,
+                        "xmax": 502,
+                        "ymax": 653
+                    },
+                    "Text": "234.40"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 48,
+                        "ymin": 730,
+                        "xmax": 325,
+                        "ymax": 755
+                    },
+                    "Text": "TOTAL AMOUNT COLLECTED"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 424,
+                        "ymin": 730,
+                        "xmax": 498,
+                        "ymax": 753
+                    },
+                    "Text": "234.40"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 46,
+            "ymin": 603,
+            "xmax": 503,
+            "ymax": 628
+        },
+        {
+            "xmin": 49,
+            "ymin": 629,
+            "xmax": 502,
+            "ymax": 653
+        },
+        {
+            "xmin": 48,
+            "ymin": 730,
+            "xmax": 498,
+            "ymax": 755
+        }
+    ],
+    "date": {
+        "xmin": 48,
+        "ymin": 429,
+        "xmax": 177,
+        "ymax": 451
+    },
+    "roi": {
+        "xmin": 35,
+        "ymin": 159,
+        "xmax": 563,
+        "ymax": 979
+    },
+    "roi_size": [
+        528,
+        820
+    ]
+}

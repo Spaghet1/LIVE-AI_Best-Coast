@@ -1,0 +1,109 @@
+{
+    "image_path": "/content/Dataset/train/images/866.jpg",
+    "image_size": [
+        4961,
+        7016
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/866.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1550,
+                        "ymin": 1836,
+                        "xmax": 1696,
+                        "ymax": 1915
+                    },
+                    "Text": "DATE"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 1906,
+                        "ymin": 1833,
+                        "xmax": 2649,
+                        "ymax": 1900
+                    },
+                    "Text": ": 09/06/2018 18:47:29"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1997,
+                        "ymin": 3298,
+                        "xmax": 2702,
+                        "ymax": 3377
+                    },
+                    "Text": "TOTAL (INCL GST, 0%)"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2912,
+                        "ymin": 3298,
+                        "xmax": 3169,
+                        "ymax": 3374
+                    },
+                    "Text": "RM15.39"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 2339,
+                        "ymin": 3699,
+                        "xmax": 2710,
+                        "ymax": 3778
+                    },
+                    "Text": "TOTAL PAID"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2909,
+                        "ymin": 3702,
+                        "xmax": 3163,
+                        "ymax": 3772
+                    },
+                    "Text": "RM50.00"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 1997,
+            "ymin": 3298,
+            "xmax": 3169,
+            "ymax": 3377
+        },
+        {
+            "xmin": 2339,
+            "ymin": 3699,
+            "xmax": 3163,
+            "ymax": 3778
+        }
+    ],
+    "date": {
+        "xmin": 1550,
+        "ymin": 1833,
+        "xmax": 2649,
+        "ymax": 1915
+    },
+    "roi": {
+        "xmin": 1522,
+        "ymin": 954,
+        "xmax": 3271,
+        "ymax": 4929
+    },
+    "roi_size": [
+        1749,
+        3975
+    ]
+}

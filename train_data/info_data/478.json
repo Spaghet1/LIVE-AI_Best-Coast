@@ -1,0 +1,109 @@
+{
+    "image_path": "/content/Dataset/train/images/478.jpg",
+    "image_size": [
+        892,
+        2897
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/478.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 28,
+                        "ymin": 813,
+                        "xmax": 109,
+                        "ymax": 854
+                    },
+                    "Text": "DATE"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 161,
+                        "ymin": 819,
+                        "xmax": 550,
+                        "ymax": 858
+                    },
+                    "Text": ": 10/08/2017 03:26:21PM"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 26,
+                        "ymin": 1611,
+                        "xmax": 124,
+                        "ymax": 1649
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 629,
+                        "ymin": 1605,
+                        "xmax": 732,
+                        "ymax": 1644
+                    },
+                    "Text": "21.40"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 19,
+                        "ymin": 1692,
+                        "xmax": 368,
+                        "ymax": 1733
+                    },
+                    "Text": "TOTAL ATTER ROUNDING"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 636,
+                        "ymin": 1688,
+                        "xmax": 745,
+                        "ymax": 1733
+                    },
+                    "Text": "21.40"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 26,
+            "ymin": 1605,
+            "xmax": 732,
+            "ymax": 1649
+        },
+        {
+            "xmin": 19,
+            "ymin": 1688,
+            "xmax": 745,
+            "ymax": 1733
+        }
+    ],
+    "date": {
+        "xmin": 28,
+        "ymin": 813,
+        "xmax": 550,
+        "ymax": 858
+    },
+    "roi": {
+        "xmin": 5,
+        "ymin": 235,
+        "xmax": 755,
+        "ymax": 2827
+    },
+    "roi_size": [
+        750,
+        2592
+    ]
+}

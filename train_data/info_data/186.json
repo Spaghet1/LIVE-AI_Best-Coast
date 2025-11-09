@@ -1,0 +1,100 @@
+{
+    "image_path": "/content/Dataset/train/images/186.jpg",
+    "image_size": [
+        4961,
+        7016
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/186.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 2071,
+                        "ymin": 4264,
+                        "xmax": 2964,
+                        "ymax": 4352
+                    },
+                    "Text": "4/22/2018 08:10PM SV-WANI"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1555,
+                        "ymin": 2956,
+                        "xmax": 1850,
+                        "ymax": 3033
+                    },
+                    "Text": "SUBTOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2648,
+                        "ymin": 2953,
+                        "xmax": 2905,
+                        "ymax": 3032
+                    },
+                    "Text": "RM41.81"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1555,
+                        "ymin": 3046,
+                        "xmax": 1909,
+                        "ymax": 3120
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2392,
+                        "ymin": 3036,
+                        "xmax": 2886,
+                        "ymax": 3124
+                    },
+                    "Text": "RM41.81"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 1555,
+            "ymin": 2953,
+            "xmax": 2905,
+            "ymax": 3033
+        },
+        {
+            "xmin": 1555,
+            "ymin": 3036,
+            "xmax": 2886,
+            "ymax": 3124
+        }
+    ],
+    "date": {
+        "xmin": 2071,
+        "ymin": 4264,
+        "xmax": 2964,
+        "ymax": 4352
+    },
+    "roi": {
+        "xmin": 1532,
+        "ymin": 1405,
+        "xmax": 2993,
+        "ymax": 4634
+    },
+    "roi_size": [
+        1461,
+        3229
+    ]
+}

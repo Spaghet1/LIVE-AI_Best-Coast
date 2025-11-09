@@ -1,0 +1,129 @@
+{
+    "image_path": "/content/Dataset/train/images/644.jpg",
+    "image_size": [
+        4961,
+        7016
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/644.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1728,
+                        "ymin": 3530,
+                        "xmax": 2302,
+                        "ymax": 3622
+                    },
+                    "Text": "22/04/2018 19:29"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1728,
+                        "ymin": 2645,
+                        "xmax": 2050,
+                        "ymax": 2733
+                    },
+                    "Text": "SUB-TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2961,
+                        "ymin": 2632,
+                        "xmax": 3144,
+                        "ymax": 2712
+                    },
+                    "Text": "10.20"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1725,
+                        "ymin": 2741,
+                        "xmax": 2440,
+                        "ymax": 2831
+                    },
+                    "Text": "TOTAL SALES INCL GST"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2967,
+                        "ymin": 2730,
+                        "xmax": 3145,
+                        "ymax": 2812
+                    },
+                    "Text": "10.20"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 1725,
+                        "ymin": 2839,
+                        "xmax": 2586,
+                        "ymax": 2927
+                    },
+                    "Text": "TOTAL AFTER ADJ INCL GST"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 2972,
+                        "ymin": 2831,
+                        "xmax": 3145,
+                        "ymax": 2911
+                    },
+                    "Text": "10.20"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 1728,
+            "ymin": 2632,
+            "xmax": 3144,
+            "ymax": 2733
+        },
+        {
+            "xmin": 1725,
+            "ymin": 2730,
+            "xmax": 3145,
+            "ymax": 2831
+        },
+        {
+            "xmin": 1725,
+            "ymin": 2831,
+            "xmax": 3145,
+            "ymax": 2927
+        }
+    ],
+    "date": {
+        "xmin": 1728,
+        "ymin": 3530,
+        "xmax": 2302,
+        "ymax": 3622
+    },
+    "roi": {
+        "xmin": 1715,
+        "ymin": 1038,
+        "xmax": 3160,
+        "ymax": 4222
+    },
+    "roi_size": [
+        1445,
+        3184
+    ]
+}

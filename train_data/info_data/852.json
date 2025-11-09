@@ -1,0 +1,100 @@
+{
+    "image_path": "/content/Dataset/train/images/852.jpg",
+    "image_size": [
+        591,
+        1759
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/852.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 37,
+                        "ymin": 591,
+                        "xmax": 514,
+                        "ymax": 615
+                    },
+                    "Text": "RECEIPT #: CSP0420207 DATE: 13/12/2017"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 227,
+                        "ymin": 865,
+                        "xmax": 418,
+                        "ymax": 891
+                    },
+                    "Text": "SUB-TOTAL (GST)"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 476,
+                        "ymin": 866,
+                        "xmax": 543,
+                        "ymax": 890
+                    },
+                    "Text": "24.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 67,
+                        "ymin": 937,
+                        "xmax": 189,
+                        "ymax": 960
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 415,
+                        "ymin": 939,
+                        "xmax": 542,
+                        "ymax": 966
+                    },
+                    "Text": "24.00"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 227,
+            "ymin": 865,
+            "xmax": 543,
+            "ymax": 891
+        },
+        {
+            "xmin": 67,
+            "ymin": 937,
+            "xmax": 542,
+            "ymax": 966
+        }
+    ],
+    "date": {
+        "xmin": 37,
+        "ymin": 591,
+        "xmax": 514,
+        "ymax": 615
+    },
+    "roi": {
+        "xmin": 26,
+        "ymin": 172,
+        "xmax": 555,
+        "ymax": 1528
+    },
+    "roi_size": [
+        529,
+        1356
+    ]
+}

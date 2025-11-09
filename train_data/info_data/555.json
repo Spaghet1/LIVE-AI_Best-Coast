@@ -1,0 +1,158 @@
+{
+    "image_path": "/content/Dataset/train/images/555.jpg",
+    "image_size": [
+        747,
+        1180
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/555.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 395,
+                        "ymin": 371,
+                        "xmax": 628,
+                        "ymax": 398
+                    },
+                    "Text": "17/01/2018 8:08:53"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 327,
+                        "ymin": 631,
+                        "xmax": 393,
+                        "ymax": 657
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 561,
+                        "ymin": 633,
+                        "xmax": 630,
+                        "ymax": 659
+                    },
+                    "Text": "29.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 84,
+                        "ymin": 716,
+                        "xmax": 352,
+                        "ymax": 741
+                    },
+                    "Text": "TOTAL INCLUSIVE GST:"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 562,
+                        "ymin": 718,
+                        "xmax": 629,
+                        "ymax": 743
+                    },
+                    "Text": "29.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 80,
+                        "ymin": 975,
+                        "xmax": 143,
+                        "ymax": 1001
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 563,
+                        "ymin": 972,
+                        "xmax": 633,
+                        "ymax": 996
+                    },
+                    "Text": "29.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 570,
+                        "ymin": 883,
+                        "xmax": 630,
+                        "ymax": 907
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 562,
+                        "ymin": 930,
+                        "xmax": 633,
+                        "ymax": 953
+                    },
+                    "Text": "29.00"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 327,
+            "ymin": 631,
+            "xmax": 630,
+            "ymax": 659
+        },
+        {
+            "xmin": 84,
+            "ymin": 716,
+            "xmax": 629,
+            "ymax": 743
+        },
+        {
+            "xmin": 80,
+            "ymin": 972,
+            "xmax": 633,
+            "ymax": 1001
+        },
+        {
+            "xmin": 562,
+            "ymin": 883,
+            "xmax": 633,
+            "ymax": 953
+        }
+    ],
+    "date": {
+        "xmin": 395,
+        "ymin": 371,
+        "xmax": 628,
+        "ymax": 398
+    },
+    "roi": {
+        "xmin": 51,
+        "ymin": 47,
+        "xmax": 643,
+        "ymax": 1161
+    },
+    "roi_size": [
+        592,
+        1114
+    ]
+}

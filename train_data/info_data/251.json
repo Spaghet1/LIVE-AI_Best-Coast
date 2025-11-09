@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/251.jpg",
+    "image_size": [
+        888,
+        1917
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/251.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 57,
+                        "ymin": 894,
+                        "xmax": 811,
+                        "ymax": 935
+                    },
+                    "Text": "01/05/2016-13:19:16-29-NORBAIZURA BT-101"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 58,
+                        "ymin": 1447,
+                        "xmax": 155,
+                        "ymax": 1485
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 733,
+                        "ymin": 1447,
+                        "xmax": 814,
+                        "ymax": 1485
+                    },
+                    "Text": "8.80"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 58,
+            "ymin": 1447,
+            "xmax": 814,
+            "ymax": 1485
+        }
+    ],
+    "date": {
+        "xmin": 57,
+        "ymin": 894,
+        "xmax": 811,
+        "ymax": 935
+    },
+    "roi": {
+        "xmin": 46,
+        "ymin": 228,
+        "xmax": 827,
+        "ymax": 1763
+    },
+    "roi_size": [
+        781,
+        1535
+    ]
+}

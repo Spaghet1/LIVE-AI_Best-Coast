@@ -1,0 +1,129 @@
+{
+    "image_path": "/content/Dataset/train/images/351.jpg",
+    "image_size": [
+        457,
+        1170
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/351.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 294,
+                        "ymin": 356,
+                        "xmax": 433,
+                        "ymax": 375
+                    },
+                    "Text": "DATE: 11/01/2019"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 42,
+                        "ymin": 903,
+                        "xmax": 111,
+                        "ymax": 924
+                    },
+                    "Text": "TOTAL QTY:"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 339,
+                        "ymin": 903,
+                        "xmax": 392,
+                        "ymax": 918
+                    },
+                    "Text": "327.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 208,
+                        "ymin": 940,
+                        "xmax": 306,
+                        "ymax": 960
+                    },
+                    "Text": "TOTAL SALES :"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 338,
+                        "ymin": 940,
+                        "xmax": 395,
+                        "ymax": 958
+                    },
+                    "Text": "327.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 200,
+                        "ymin": 1060,
+                        "xmax": 309,
+                        "ymax": 1081
+                    },
+                    "Text": "TOTAL SALES :"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 343,
+                        "ymin": 1062,
+                        "xmax": 392,
+                        "ymax": 1076
+                    },
+                    "Text": "327.00"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 42,
+            "ymin": 903,
+            "xmax": 392,
+            "ymax": 924
+        },
+        {
+            "xmin": 208,
+            "ymin": 940,
+            "xmax": 395,
+            "ymax": 960
+        },
+        {
+            "xmin": 200,
+            "ymin": 1060,
+            "xmax": 392,
+            "ymax": 1081
+        }
+    ],
+    "date": {
+        "xmin": 294,
+        "ymin": 356,
+        "xmax": 433,
+        "ymax": 375
+    },
+    "roi": {
+        "xmin": 1,
+        "ymin": 20,
+        "xmax": 447,
+        "ymax": 1180
+    },
+    "roi_size": [
+        446,
+        1160
+    ]
+}

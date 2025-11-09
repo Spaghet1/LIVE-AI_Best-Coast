@@ -1,0 +1,109 @@
+{
+    "image_path": "/content/Dataset/train/images/504.jpg",
+    "image_size": [
+        932,
+        2852
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/504.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 66,
+                        "ymin": 1303,
+                        "xmax": 159,
+                        "ymax": 1339
+                    },
+                    "Text": "DATE:"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 218,
+                        "ymin": 1305,
+                        "xmax": 416,
+                        "ymax": 1338
+                    },
+                    "Text": "21/01/2018"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 342,
+                        "ymin": 1699,
+                        "xmax": 520,
+                        "ymax": 1733
+                    },
+                    "Text": "SUB TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 631,
+                        "ymin": 1700,
+                        "xmax": 769,
+                        "ymax": 1732
+                    },
+                    "Text": "RM8.60"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 63,
+                        "ymin": 1828,
+                        "xmax": 468,
+                        "ymax": 1869
+                    },
+                    "Text": "TOTAL SALES INCL GST @ 6%"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 569,
+                        "ymin": 1837,
+                        "xmax": 767,
+                        "ymax": 1885
+                    },
+                    "Text": "RM8.60"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 342,
+            "ymin": 1699,
+            "xmax": 769,
+            "ymax": 1733
+        },
+        {
+            "xmin": 63,
+            "ymin": 1828,
+            "xmax": 767,
+            "ymax": 1885
+        }
+    ],
+    "date": {
+        "xmin": 66,
+        "ymin": 1303,
+        "xmax": 416,
+        "ymax": 1339
+    },
+    "roi": {
+        "xmin": 53,
+        "ymin": 177,
+        "xmax": 871,
+        "ymax": 2862
+    },
+    "roi_size": [
+        818,
+        2685
+    ]
+}

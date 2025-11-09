@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/554.jpg",
+    "image_size": [
+        986,
+        2559
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/554.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 618,
+                        "ymin": 665,
+                        "xmax": 845,
+                        "ymax": 694
+                    },
+                    "Text": "DATE: 02/02/2018"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 194,
+                        "ymin": 1824,
+                        "xmax": 615,
+                        "ymax": 1856
+                    },
+                    "Text": "TOTAL SALES (INCLUSIVE OF GST) :"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 668,
+                        "ymin": 1823,
+                        "xmax": 757,
+                        "ymax": 1849
+                    },
+                    "Text": "374.20"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 194,
+            "ymin": 1823,
+            "xmax": 757,
+            "ymax": 1856
+        }
+    ],
+    "date": {
+        "xmin": 618,
+        "ymin": 665,
+        "xmax": 845,
+        "ymax": 694
+    },
+    "roi": {
+        "xmin": 139,
+        "ymin": 286,
+        "xmax": 858,
+        "ymax": 2202
+    },
+    "roi_size": [
+        719,
+        1916
+    ]
+}

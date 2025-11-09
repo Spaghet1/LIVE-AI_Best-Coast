@@ -1,0 +1,129 @@
+{
+    "image_path": "/content/Dataset/train/images/815.jpg",
+    "image_size": [
+        619,
+        1483
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/815.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 319,
+                        "ymin": 950,
+                        "xmax": 518,
+                        "ymax": 974
+                    },
+                    "Text": "DATE: 18/04/2017"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 25,
+                        "ymin": 565,
+                        "xmax": 341,
+                        "ymax": 589
+                    },
+                    "Text": "TOTAL SALES INCLUSIVE GST @6%"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 479,
+                        "ymin": 568,
+                        "xmax": 528,
+                        "ymax": 589
+                    },
+                    "Text": "3.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 240,
+                        "ymin": 635,
+                        "xmax": 295,
+                        "ymax": 661
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 482,
+                        "ymin": 642,
+                        "xmax": 530,
+                        "ymax": 663
+                    },
+                    "Text": "3.00"
+                }
+            ],
+            "label": "total"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 240,
+                        "ymin": 709,
+                        "xmax": 346,
+                        "ymax": 732
+                    },
+                    "Text": "FINAL TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 480,
+                        "ymin": 713,
+                        "xmax": 529,
+                        "ymax": 735
+                    },
+                    "Text": "3.00"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 25,
+            "ymin": 565,
+            "xmax": 528,
+            "ymax": 589
+        },
+        {
+            "xmin": 240,
+            "ymin": 635,
+            "xmax": 530,
+            "ymax": 663
+        },
+        {
+            "xmin": 240,
+            "ymin": 709,
+            "xmax": 529,
+            "ymax": 735
+        }
+    ],
+    "date": {
+        "xmin": 319,
+        "ymin": 950,
+        "xmax": 518,
+        "ymax": 974
+    },
+    "roi": {
+        "xmin": 15,
+        "ymin": 118,
+        "xmax": 602,
+        "ymax": 1442
+    },
+    "roi_size": [
+        587,
+        1324
+    ]
+}

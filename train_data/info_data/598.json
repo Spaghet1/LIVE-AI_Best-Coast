@@ -1,0 +1,41 @@
+{
+    "image_path": "/content/Dataset/train/images/598.jpg",
+    "image_size": [
+        709,
+        1283
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/598.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 56,
+                        "ymin": 423,
+                        "xmax": 636,
+                        "ymax": 454
+                    },
+                    "Text": "RECEIPT # CS00633950 DATE: 25/04/2017"
+                }
+            ],
+            "label": "date"
+        }
+    ],
+    "total": [],
+    "date": {
+        "xmin": 56,
+        "ymin": 423,
+        "xmax": 636,
+        "ymax": 454
+    },
+    "roi": {
+        "xmin": 45,
+        "ymin": 99,
+        "xmax": 672,
+        "ymax": 1261
+    },
+    "roi_size": [
+        627,
+        1162
+    ]
+}

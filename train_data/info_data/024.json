@@ -1,0 +1,71 @@
+{
+    "image_path": "/content/Dataset/train/images/024.jpg",
+    "image_size": [
+        1080,
+        1527
+    ],
+    "info_json_path": "/content/Dataset/train/gdt/024.json",
+    "important_words": [
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 346,
+                        "ymin": 1200,
+                        "xmax": 649,
+                        "ymax": 1222
+                    },
+                    "Text": "VALID 3 MONTHS FROM DATE OF RECEIPT"
+                }
+            ],
+            "label": "date"
+        },
+        {
+            "words": [
+                {
+                    "Coordinates": {
+                        "xmin": 353,
+                        "ymin": 958,
+                        "xmax": 442,
+                        "ymax": 992
+                    },
+                    "Text": "TOTAL"
+                },
+                {
+                    "Coordinates": {
+                        "xmin": 526,
+                        "ymin": 953,
+                        "xmax": 628,
+                        "ymax": 986
+                    },
+                    "Text": "269.40"
+                }
+            ],
+            "label": "total"
+        }
+    ],
+    "total": [
+        {
+            "xmin": 353,
+            "ymin": 953,
+            "xmax": 628,
+            "ymax": 992
+        }
+    ],
+    "date": {
+        "xmin": 346,
+        "ymin": 1200,
+        "xmax": 649,
+        "ymax": 1222
+    },
+    "roi": {
+        "xmin": 312,
+        "ymin": 111,
+        "xmax": 678,
+        "ymax": 1454
+    },
+    "roi_size": [
+        366,
+        1343
+    ]
+}
