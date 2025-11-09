@@ -1,0 +1,3 @@
+# Ignore dataset directories
+/train_data/
+/large-receipt-image-dataset-SRD/
